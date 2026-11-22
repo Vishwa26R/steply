@@ -1,9 +1,8 @@
 
-# BrightSteps 
-
+# Steply 
 ### A Gamified Home-School Support Platform for Children with ADHD
 
-BrightSteps is a digital platform designed to support children under the age of 10 with Attention-Deficit/Hyperactivity Disorder (ADHD) in developing independence in their everyday activities.
+Steply is a digital platform designed to support children under the age of 10 with Attention-Deficit/Hyperactivity Disorder (ADHD) in developing independence in their everyday activities.
 
 The platform helps children follow structured, visual routines while enabling parents and teachers to collaborate, record observations, monitor progress, and identify support strategies that work best for each child.
 
@@ -13,7 +12,7 @@ The platform helps children follow structured, visual routines while enabling pa
 
 Children with ADHD may experience difficulties with attention, organisation, following instructions, and completing everyday activities. These challenges can affect their ability to independently complete routines at home and school.
 
-BrightSteps aims to address these challenges through personalised routines, child-friendly task guidance, gamified interactions, and shared communication between parents and teachers.
+Steply aims to address these challenges through personalised routines, child-friendly task guidance, gamified interactions, and shared communication between parents and teachers.
 
 The platform focuses not only on task completion but also on understanding how much support a child needs to complete each activity and how their independence develops over time.
 
