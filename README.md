@@ -109,7 +109,7 @@ To develop a gamified digital platform that supports children under the age of 1
 
 ## Technology Stack
 
-The technologies used to develop BrightSteps will be documented here as the project implementation progresses.
+The technologies used to develop Steply will be documented here as the project implementation progresses.
 
 | Category | Technology |
 |---|---|
@@ -124,7 +124,7 @@ The technologies used to develop BrightSteps will be documented here as the proj
 
 ## Project Status
 
-BrightSteps is currently under development as a university software development project.
+Steply is currently under development as a university software development project.
 
 - [x] Project concept and problem identification
 - [x] Initial project aim and scope
@@ -144,7 +144,7 @@ BrightSteps is currently under development as a university software development 
 
 ## Privacy and Child Data
 
-BrightSteps is designed to handle information relating to children.
+Steply is designed to handle information relating to children.
 
 The system aims to:
 - Restrict child information to authorised users.
@@ -157,7 +157,7 @@ The system aims to:
 
 ## Academic Project
 
-BrightSteps is developed as a university software development project.
+Steply is developed as a university software development project.
 
 The project explores how interactive digital routines, gamification, visual guidance, and collaboration between parents and teachers can support children with ADHD in developing independence in everyday activities.
 
